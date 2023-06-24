@@ -1,16 +1,26 @@
-# algorithmvisualizer
+# Algo-visulizaion
+Algo Visualizer
 
-A new Flutter project.
+Algo Visualizer is a powerful and interactive tool built using Flutter that aims to bring algorithms to life through visualization. This open-source project provides developers with a platform to understand, explore, and learn various sorting, searching, and graph algorithms in a visually appealing and engaging manner.
 
-## Getting Started
+Key Features:
 
-This project is a starting point for a Flutter application.
+🔍 Algorithm Visualization: Step-by-step visualization of algorithms allows users to observe the execution flow and understand the underlying logic behind each algorithm.
 
-A few resources to get you started if this is your first Flutter project:
+🎨 Interactive User Interface: The user-friendly interface enables customization of visualization speed, data size, and other parameters, providing a personalized learning experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌐 Cross-Platform Compatibility: Built with Flutter, the Algo Visualizer project can seamlessly run on both Android and iOS devices, ensuring accessibility across different platforms.
+
+
+
+
+
+
+![InsertionSort](https://github.com/RR-Terminator/algo-visulizaion/assets/105741771/6ae2b888-4f50-4264-962b-7545f8e13e6f)
+![cycleSort](https://github.com/RR-Terminator/algo-visulizaion/assets/105741771/a7a4457f-cd0f-4156-ad99-8429f7b76c73)
+![bubbleSort](https://github.com/RR-Terminator/algo-visulizaion/assets/105741771/698ddfcf-ae6f-4424-871e-233b9eb06ee1)
+![Binary Search](https://github.com/RR-Terminator/algo-visulizaion/assets/105741771/91e1cf11-f37f-4d96-87a2-5871e19d0306)
+![SelectionSort](https://github.com/RR-Terminator/algo-visulizaion/assets/105741771/4b9ca297-ce8d-4ac9-aafe-c41c84a37251)
+![Linear Search](https://github.com/RR-Terminator/algo-visulizaion/assets/105741771/8f16862d-d442-417b-a876-142ae5c3b733)
+

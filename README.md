@@ -1,4 +1,4 @@
-# Algo-visulizaion
+# Algo-Visualizer
 Algo Visualizer
 
 Algo Visualizer is a powerful and interactive tool built using Flutter that aims to bring algorithms to life through visualization. This open-source project provides developers with a platform to understand, explore, and learn various sorting, searching, and graph algorithms in a visually appealing and engaging manner.
